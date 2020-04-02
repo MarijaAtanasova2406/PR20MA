@@ -32,27 +32,27 @@ Other categories are: Gender which contains 2 values: M stands for Male and F fo
 
 Amongst the common stereotypes that the women are keen on buying products and necessities more than men, from the findings, we can see that the male population is at the top of the charts when it comes to buying things.
 
-! [](https://i.imgur.com/cIsNEkR.png)
+![](https://i.imgur.com/cIsNEkR.png)
 
 Difference is also seen in the marital status of people:
 
-! [](https://i.imgur.com/WMVMj5U.png)
+![](https://i.imgur.com/WMVMj5U.png)
 
 Singles are more likely to buy on Black Friday, than married couples.
 
 And the results in these 2 chars show that of singles, men tend to buy for 0.2% more than women do:
 
-! [](https://i.imgur.com/Az06y9O.png)
+![](https://i.imgur.com/Az06y9O.png)
 
 What we can also see is that the citizens in one city have more consumption of the items in citizens in other city.
 
-! [](https://i.imgur.com/uas8KFT.jpg)
+![](https://i.imgur.com/uas8KFT.jpg)
 
 Which from the chart, we can see that the most leading category for cities is the second - B.
 
 When the day comes, during black Friday, we can see a rise of the shopping spree at the age of 26-35.
 
-! [](https://i.imgur.com/74BETLE.jpg)
+![](https://i.imgur.com/74BETLE.jpg)
 
 People who belong in this category are spending the most money than people from other categories.
 
