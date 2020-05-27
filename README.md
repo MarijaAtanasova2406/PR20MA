@@ -6,19 +6,15 @@ Data Mining Project - Black Friday Sales
 
 One of the most popular sales nowadays is the Black Friday Sale that actually happens in a certain period of time, every year. People are following the trend and tending to buy a variety of things, such as: clothes, shoes, electronics, furniture, etc. However, people are used to the fact that they should buy only because of the low price, neglecting the purpose for some of the things. Moreover, there are people who tend to bargain and buy things only for the purpose of resaling them for a higher price. However, women are most likely to shop more clothes than men, but what is the purpose of this project is to give answers to these types of questions.
 
-### These are following questions that I am trying to give the most objective answer:
+#### These are following questions that I am trying to give the most objective answer:
 
-#### 1. Which of the products is the most prefered to be bought, declared as a bestselling product?
+##### 1. In which city people tend to buy the most amount of products?
 
-#### 2. In which city people tend to buy the most amount of products?
+##### 2. Who is most likely to spend money on Black Friday, men or women?
 
-#### 3. Who is most likely to spend money on Black Friday, men or women?
+##### 3. Should the age be considered as one of the factors for shopping the most?
 
-#### 4. Should the age be considered as one of the factors for shopping the most?
-
-#### 5. Should we consider marriage as one of the factors, why people are tending to buy things for their sagnificant other or not?
-
-#### 6. Which are the top 5 products which are popular at the male/female audience?
+##### 4. Should we consider marriage as one of the factors, why people are tending to buy things for their sagnificant other or not?
 
 ## Data - Describing the data
 
@@ -59,3 +55,17 @@ People who belong in this category are spending the most money than people from 
 ## Most interesting results
 
 The most shocking part for me was that men are spending more money than woman and also the singles are more likely to spend money than the married couples, and between these 2 facts, men from the single category are spending the most money with the percentige of 58 against women with 56.
+
+In conclusion:
+
+1. Men go to Black Friday more than women and spend more than women.
+
+2. Two age groups can be identified with higher purchase : 26-35 and 18-25 In the City_Category_A dominant buyers are Males In the City_Category_B they are at the same level In the City_Category_C dominant buyers are Female People living in the City_Category = C are tending to make more purchase than people living in the 2 other city categories. For City_categories B and C, Males tend to dominate the purchasing, whereas Females tend to puchase more in the city_category = A.
+
+3. The stark difference in the purchase acoss City_Categories for the Age Group of 55 and above. It is highest in City_Category_B, as compared to the other age groups which tend to show high purchase in City_Category_C.
+
+4. People who are married tend to buy more than the single people.
+
+5. Most of the purchase is done between 5000-10000 products.
+
+6. Singles tend to spend more money than married people.
